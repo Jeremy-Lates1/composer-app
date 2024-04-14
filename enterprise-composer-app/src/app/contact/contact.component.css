@@ -1,0 +1,20 @@
+/*
+ * Author: Jeremy Lates
+ * Date: 3/30/2024
+ * Description: contact component css
+ * Notes:
+ * Code was adapted from https://github.com/buwebdev/web-425/blob/master/week-2/composer-app/src/app/contact/contact.component.css
+
+*/
+.location {
+  text-align: center;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.contact-container {
+  width: 100%;
+  padding-top: 50px;
+}

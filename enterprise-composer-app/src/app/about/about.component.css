@@ -1,0 +1,20 @@
+/*
+ * Author: Jeremy Lates
+ * Date: 3/30/2024
+ * Description: about component css
+ * Notes:
+ * Code was adapted from https://github.com/buwebdev/web-425/blob/master/week-2/composer-app/src/app/about/about.component.css
+
+*/
+.apa-reference {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.composer-container {
+  padding-top: 50px;
+}
